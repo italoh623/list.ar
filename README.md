@@ -53,6 +53,4 @@ To run this server you will need a node version 12.0.0 (minimum)
 
 <sub><b>Ítalo Henrique Leça da Silva</b></sub>
 
-This project was developed at Rocketseat's Next Level Week 
-
 [![Linkedin Badge](https://img.shields.io/badge/-@italo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gitirana/)](https://www.linkedin.com/in/italo-leca/) [![Gmail Badge](https://img.shields.io/badge/-italohenrique014@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:italohenrique014@gmail.com)](mailto:italohenrique014@gmail.com)
