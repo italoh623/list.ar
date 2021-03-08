@@ -43,9 +43,10 @@ To run this server you will need a node version 12.0.0 (minimum)
 
 ***The application still is in development 🚧. Soon this file will be updated with the deploy of the app and new features***
 
+---
 ### Author
 
----
+
 
 <img style="border-radius: 50%;" src="https://github.com/italoh623.png" width="80px;" alt="" />
 
