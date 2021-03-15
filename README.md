@@ -7,7 +7,7 @@
 
 # To.do
 
-To.do it is a to do list application developed in the Ignite Bootcamp by RocketSeat.
+To.do is a to do list application developed in the Ignite Bootcamp by RocketSeat.
 
 
 # Getting Started 
