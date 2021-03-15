@@ -1,11 +1,8 @@
-<!-- <h1 align="center">
+<h1 align="center">
 
-<img src="https://raw.githubusercontent.com/gitirana/GoInk-web/main/src/assets/logo.svg" alt="goink" />
+<img src="https://raw.githubusercontent.com/italoh623/to.do/main/public/logo.svg" alt="goink" />
 
-</h1> -->
-
-
-# To.do
+</h1>
 
 To.do is a to do list application developed in the Ignite Bootcamp by RocketSeat.
 
