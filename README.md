@@ -1,6 +1,6 @@
 <h1 align="center">
 
-<img src="https://raw.githubusercontent.com/italoh623/to.do/main/public/logo.svg" alt="goink" />
+<img src="https://raw.githubusercontent.com/italoh623/to.do/main/public/logo.svg" alt="to.do" />
 
 </h1>
 
